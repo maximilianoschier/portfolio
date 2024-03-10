@@ -3,21 +3,28 @@ import reflex as rx
 from portfolio.components.heading import heading
 from portfolio.components.media import media
 from portfolio.styles.styles import Size, IMAGE_HEIGHT
+from portfolio.data import Extra
 
-def card_detail() -> rx.Component:
+def card_detail(extra: Extra) -> rx.Component:
     return rx.card(
-        rx.inset(
+        rx.link(
+            rx.inset(
             rx.image(
-                src="/favicon.ico",
+                src=extra.image,
                 height=IMAGE_HEIGHT,
                 width="100%",
+                object_fit="cover"
             ),
             pb=Size.DEFAULT.value
         ),
+        rx.text.strong(extra.title),
         rx.text(
-            "Description",
+            extra.description,
             size=Size.SMALL.value,
             color_scheme="gray"
+        )
         ),
-        width="100%"
+        width="100%",
+        href=extra.url,
+        is_external=True
     )

@@ -1,0 +1,137 @@
+{
+    "avatar": "/CV.png",
+    "name": "Maximiliano Schier",
+    "title": "Solutions Architect",
+    "location": "Copenhagen",
+    "media": {
+        "email": "maximiliano.schier@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/maximilianoschier",
+        "linkedin": "https://www.linkedin.com/in/maximiliano-schier-bab4aa1a/"
+    },
+    "about": "Solutions Architect passionate about interacting and learning new technologies. I enjoy coding in my free time, especially FrontEnd applications. I also love spending time with family and am a crazy football fan, Boca Juniors of course! I currently live in Copenhagen, Denmark.",
+    "technologies": [
+        {
+            "icon": "devicon-amazonwebservices-plain-wordmark colored",
+            "name": "AWS"
+        },
+        {
+            "icon": "devicon-python-plain-wordmark colored",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-javascript-plain colored",
+            "name": "Javascript"
+        },
+        {
+            "icon": "devicon-docker-plain-wordmark colored",
+            "name": "Docker"
+        },
+        {
+            "icon": "devicon-kubernetes-plain-wordmark colored",
+            "name": "Kubernetes"
+        },
+        {
+            "icon": "devicon-linux-plain colored",
+            "name": "Linux"
+        },
+        {
+            "icon": "devicon-prometheus-original colored",
+            "name": "Prometheus"
+        },
+        {
+            "icon": "devicon-github-original colored",
+            "name": "Github"
+        },
+        {
+            "icon": "devicon-bitbucket-original-wordmark colored",
+            "name": "Bitbucket"
+        }         
+    ],
+    "experience": [
+        {
+            "icon": "box-select",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
+            "date": "Years"
+        },
+        {
+            "icon": "box-select",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
+            "date": "Years"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "box-select",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
+            "technologies": [
+                {
+                    "icon": "box-select",
+                    "name": "Tecnology"
+                },
+                {
+                    "icon": "box-select",
+                    "name": "Tecnology"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        },
+        {
+            "icon": "box-select",
+            "title": "Title",
+            "subtitle": "Subtitle",
+            "description": "Description",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnology"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Tecnology"
+                }
+            ],
+            "image": "/favicon.ico",
+            "url": "https://google.com",
+            "github": "https://github.com"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Systems Engineer",
+            "subtitle": "Universidad Abierta Interamericana (UAI)",
+            "description": "Bachelor in Systems Engineering. Argentina",
+            "date": "2011-2019",
+            "certificate": ""
+        }
+    ],
+    "extras": [
+        {
+            "image": "/favicon.ico",
+            "title": "Title",
+            "description": "Description",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Title",
+            "description": "Description",
+            "url": ""
+        },
+        {
+            "image": "/favicon.ico",
+            "title": "Title",
+            "description": "Description",
+            "url": ""
+        }
+    ]
+}
