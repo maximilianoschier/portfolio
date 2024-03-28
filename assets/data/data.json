@@ -1,11 +1,14 @@
 {
+    "title": "Portfolio",
+    "description": "Resume Maximiliano Schier",
+    "image": "/favicon.ico",
     "avatar": "/CV.png",
     "name": "Maximiliano Schier",
-    "title": "Solutions Architect",
+    "skill": "Solutions Architect",
     "location": "Copenhagen",
     "media": {
         "email": "maximiliano.schier@gmail.com",
-        "cv": "/data/cv.pdf",
+        "cv": "/data/CV.pdf",
         "github": "https://github.com/maximilianoschier",
         "linkedin": "https://www.linkedin.com/in/maximiliano-schier-bab4aa1a/"
     },
@@ -50,39 +53,81 @@
     ],
     "experience": [
         {
-            "icon": "box-select",
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "description": "Description",
-            "date": "Years"
+            "icon": "briefcase",
+            "title": "Solutions Architect",
+            "subtitle": "Queue-it",
+            "description": "Solutions Architect",
+            "date": "2023-Present"
         },
         {
-            "icon": "box-select",
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "description": "Description",
-            "date": "Years"
+            "icon": "briefcase",
+            "title": "Integration Engineer",
+            "subtitle": "Philips Morris Internation",
+            "description": "Integration Engineer",
+            "date": "2021-2023"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Sr. Technology Analyst",
+            "subtitle": "Pluspetrol",
+            "description": "Sr. Technology Analyst",
+            "date": "2020-2021"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Technology Consultant",
+            "subtitle": "Cognizant",
+            "description": "Technology Consultant",
+            "date": "2019-2020"
+        },
+        {
+            "icon": "briefcase",
+            "title": "SAP Technology Analyst & Oracle DBA",
+            "subtitle": "Bunge",
+            "description": "SAP + Oracle DBA",
+            "date": "2014-2019"
+        },
+        {
+            "icon": "briefcase",
+            "title": "SAP Technology Consultant",
+            "subtitle": "IBM",
+            "description": "SAP Technology Consultant",
+            "date": "2011-2014"
+        },
+        {
+            "icon": "briefcase",
+            "title": "SAP Technology Consultant",
+            "subtitle": "Invenzis",
+            "description": "SAP Technology Consultant",
+            "date": "2010-2011"
+        },
+        {
+            "icon": "briefcase",
+            "title": "SAP Technology & Security Consultant",
+            "subtitle": "Accenture",
+            "description": "SAP + Security",
+            "date": "2009-2010"
         }
     ],
     "projects": [
         {
-            "icon": "box-select",
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "description": "Description",
+            "icon": "cloud-sun",
+            "title": "Weather App",
+            "subtitle": "",
+            "description": "Real-time weather forecast for a specific city. Interaction with an API and fetch the current weather for the entered city name.",
             "technologies": [
                 {
-                    "icon": "box-select",
-                    "name": "Tecnology"
+                    "icon": "devicon-javascript-plain",
+                    "name": "Javascript"
                 },
                 {
-                    "icon": "box-select",
-                    "name": "Tecnology"
+                    "icon": "devicon-heroku-plain",
+                    "name": "Heroku"
                 }
             ],
-            "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
+            "image": "/weather_app.png",
+            "url": "",
+            "github": "https://github.com/maximilianoschier/node3-weather-website"
         },
         {
             "icon": "box-select",

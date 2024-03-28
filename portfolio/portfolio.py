@@ -45,4 +45,19 @@ app = rx.App(
             accent_color="grass"
         )
     )
-app.add_page(index)
+
+title = DATA.title
+description = DATA.description
+image = DATA.image
+
+app.add_page(
+    index,
+    title=title,
+    description=description,
+    image=image,
+    meta=[
+        {"name": "og:title", "content": title},
+        {"name": "og:description", "content": description},
+        {"name": "og:image", "content": image}
+    ]
+)

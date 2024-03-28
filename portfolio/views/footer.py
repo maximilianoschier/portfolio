@@ -7,7 +7,7 @@ from portfolio.data import Media
 
 def footer(data: Media) -> rx.Component:
     return rx.vstack(
-        rx.text("Nombre"),
+        rx.text("Maximiliano Schier"),
         media(data),
         spacing=Size.SMALL.value
     )
