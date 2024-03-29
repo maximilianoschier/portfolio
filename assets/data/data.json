@@ -1,5 +1,5 @@
 {
-    "title": "Portfolio",
+    "title": "Portfolio - Maximiliano Schier",
     "description": "Resume Maximiliano Schier",
     "image": "/favicon.ico",
     "avatar": "/CV.png",
@@ -125,28 +125,36 @@
                     "name": "Heroku"
                 }
             ],
-            "image": "/weather_app.png",
+            "image": "/weather_app.webp",
             "url": "",
             "github": "https://github.com/maximilianoschier/node3-weather-website"
         },
         {
-            "icon": "box-select",
-            "title": "Title",
-            "subtitle": "Subtitle",
-            "description": "Description",
+            "icon": "key-square",
+            "title": "Auth FastAPI",
+            "subtitle": "",
+            "description": "Backend app built wth FastAPI, OAuth2 JWT and MongoDB ",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnology"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
                 },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Tecnology"
+                    "icon": "devicon-fastapi-plain",
+                    "name": "FastAPI"
+                },
+                {
+                    "icon": "devicon-oauth-plain",
+                    "name": "OAuth2"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MongoDB"
                 }
             ],
             "image": "/favicon.ico",
-            "url": "https://google.com",
-            "github": "https://github.com"
+            "url": "",
+            "github": "https://github.com/maximilianoschier/fastapi"
         }
     ],
     "training": [
