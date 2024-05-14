@@ -12,7 +12,7 @@
         "github": "https://github.com/maximilianoschier",
         "linkedin": "https://www.linkedin.com/in/maximiliano-schier-bab4aa1a/"
     },
-    "about": "Solutions Architect passionate about interacting and learning new technologies. I enjoy coding in my free time, especially FrontEnd applications. I also love spending time with family and am a crazy football fan, Boca Juniors of course! I currently live in Copenhagen, Denmark.",
+    "about": "Solutions Architect passionate about interacting and learning new technologies. I enjoy coding in my free time, especially Python applications (Backend and Frontend). I also love spending time with family and am a crazy football fan, Boca Juniors of course! I currently live in Copenhagen, Denmark.",
     "technologies": [
         {
             "icon": "devicon-amazonwebservices-plain-wordmark colored",
@@ -133,7 +133,7 @@
             "icon": "key-square",
             "title": "Auth FastAPI",
             "subtitle": "",
-            "description": "Backend app built wth FastAPI, OAuth2 JWT and MongoDB ",
+            "description": "Backend app built with FastAPI, OAuth2 JWT and MongoDB ",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -165,26 +165,6 @@
             "description": "Bachelor in Systems Engineering. Argentina",
             "date": "2011-2019",
             "certificate": ""
-        }
-    ],
-    "extras": [
-        {
-            "image": "/favicon.ico",
-            "title": "Title",
-            "description": "Description",
-            "url": ""
-        },
-        {
-            "image": "/favicon.ico",
-            "title": "Title",
-            "description": "Description",
-            "url": ""
-        },
-        {
-            "image": "/favicon.ico",
-            "title": "Title",
-            "description": "Description",
-            "url": ""
         }
     ]
 }

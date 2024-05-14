@@ -5,7 +5,7 @@ from portfolio.views.footer import footer
 from portfolio.views.about import about
 from portfolio.views.info import info
 from portfolio.views.tech_stack import tech_stack
-from portfolio.views.extra import extra
+# from portfolio.views.extra import extra
 from portfolio.styles.styles import MAX_WIDTH, EmSize, Size, BASE_STYLE, STYLESHEETS
 from portfolio import data
 
@@ -23,7 +23,7 @@ def index() -> rx.Component:
             info("Experience", DATA.experience),
             info("Projects", DATA.projects),
             info("Studies", DATA.training),
-            extra(DATA.extras),
+            # extra(DATA.extras),
             rx.divider(),
             footer(DATA.media),
             spacing=Size.MEDIUM.value,
