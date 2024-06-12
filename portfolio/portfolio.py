@@ -14,7 +14,8 @@ DATA = data.data
 
 def index() -> rx.Component:
     return rx.center(
-        # rx.theme_panel(),
+        rx.color_mode.button(position="top-right"),
+        #rx.theme_panel(),
         rx.vstack(
             header(DATA),
             about(DATA.about),

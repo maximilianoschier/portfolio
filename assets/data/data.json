@@ -111,23 +111,23 @@
     ],
     "projects": [
         {
-            "icon": "cloud-sun",
-            "title": "Weather App",
+            "icon": "briefcase",
+            "title": "Personal Portfolio",
             "subtitle": "",
-            "description": "Real-time weather forecast for a specific city. Interaction with an API and fetch the current weather for the entered city name.",
+            "description": "Python-Reflex Personal Portfolio. Hosted in Vercel",
             "technologies": [
                 {
-                    "icon": "devicon-javascript-plain",
-                    "name": "Javascript"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
                 },
                 {
-                    "icon": "devicon-heroku-plain",
-                    "name": "Heroku"
+                    "icon": "devicon-vercel-original",
+                    "name": "Vercel"
                 }
             ],
-            "image": "/weather_app.webp",
-            "url": "",
-            "github": "https://github.com/maximilianoschier/node3-weather-website"
+            "image": "/personal_portfolio.webp",
+            "url": "https://portfolio-maxi-schiers-projects.vercel.app/",
+            "github": "https://github.com/maximilianoschier/portfolio"
         },
         {
             "icon": "key-square",
@@ -152,10 +152,29 @@
                     "name": "MongoDB"
                 }
             ],
-            "image": "/favicon.ico",
+            "image": "/fastapi_app.webp",
             "url": "",
             "github": "https://github.com/maximilianoschier/fastapi"
-        }
+        },
+        {
+            "icon": "cloud-sun",
+            "title": "Weather App",
+            "subtitle": "",
+            "description": "Real-time weather forecast for a specific city. Interaction with an API and fetch the current weather for the entered city name.",
+            "technologies": [
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "Javascript"
+                },
+                {
+                    "icon": "devicon-heroku-plain",
+                    "name": "Heroku"
+                }
+            ],
+            "image": "/weather_app.webp",
+            "url": "",
+            "github": "https://github.com/maximilianoschier/node3-weather-website"
+        }   
     ],
     "training": [
         {

@@ -16,6 +16,8 @@ class Size(Enum):
     DEFAULT = "4" # 16px / 1em
     MEDIUM = "6" # 32px
     BIG = "8" # 48px
+    BIG_NEW = "lg"
+    MEDIUM_NEW = "md"
 
 STYLESHEETS = [
     "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
