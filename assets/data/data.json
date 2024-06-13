@@ -53,59 +53,59 @@
     ],
     "experience": [
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "Solutions Architect",
             "subtitle": "Queue-it",
-            "description": "Solutions Architect",
+            "description": "",
             "date": "2023-Present"
         },
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "Integration Engineer",
             "subtitle": "Philips Morris Internation",
-            "description": "Integration Engineer",
+            "description": "",
             "date": "2021-2023"
         },
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "Sr. Technology Analyst",
             "subtitle": "Pluspetrol",
-            "description": "Sr. Technology Analyst",
+            "description": "",
             "date": "2020-2021"
         },
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "Technology Consultant",
             "subtitle": "Cognizant",
-            "description": "Technology Consultant",
+            "description": "",
             "date": "2019-2020"
         },
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "SAP Technology Analyst & Oracle DBA",
             "subtitle": "Bunge",
-            "description": "SAP + Oracle DBA",
+            "description": "",
             "date": "2014-2019"
         },
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "SAP Technology Consultant",
             "subtitle": "IBM",
-            "description": "SAP Technology Consultant",
+            "description": "",
             "date": "2011-2014"
         },
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "SAP Technology Consultant",
             "subtitle": "Invenzis",
-            "description": "SAP Technology Consultant",
+            "description": "",
             "date": "2010-2011"
         },
         {
-            "icon": "briefcase",
+            "icon": "briefcase-business",
             "title": "SAP Technology & Security Consultant",
             "subtitle": "Accenture",
-            "description": "SAP + Security",
+            "description": "",
             "date": "2009-2010"
         }
     ],
