@@ -3,8 +3,8 @@
 
 # Portfolio :briefcase:
 
-Welcome to my personal portfolio. 
-Developed with Python and Reflex. Available to deploy a static version (JS, HTML and CSS).
+Welcome to my personal portfolio. Developed with *Python* and *Reflex*. <br>
+Available to deploy a static version (JS, HTML and CSS).
 
 
 
@@ -40,8 +40,8 @@ Start the server
 
 Deployed and running in Vercel & Reflex hosting :rocket:
 
-Vercel -> [portfolio-mschier](https://portfolio-mschier.vercel.app/)
-Reflex -> [portfolio-mschier](https://portfolio-mschier.reflex.run/)
+**Vercel** -> [portfolio-mschier](https://portfolio-mschier.vercel.app/) <br>
+**Reflex** -> [portfolio-mschier](https://portfolio-mschier.reflex.run/)
 
 ## Author
 
