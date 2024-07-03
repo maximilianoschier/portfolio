@@ -1,5 +1,7 @@
 
-# Portfolio
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# Portfolio :briefcase:
 
 Welcome to my personal portfolio. 
 Developed with Python and Reflex. Available to deploy a static version (JS, HTML and CSS).
@@ -36,10 +38,10 @@ Start the server
 
 ## Deployment
 
-Deployed and running in Vercel.
+Deployed and running in Vercel & Reflex hosting :rocket:
 
-Link -> [portfolio-mschier](https://portfolio-mschier.vercel.app/)
-
+Vercel -> [portfolio-mschier](https://portfolio-mschier.vercel.app/)
+Reflex -> [portfolio-mschier](https://portfolio-mschier.reflex.run/)
 
 ## Author
 
